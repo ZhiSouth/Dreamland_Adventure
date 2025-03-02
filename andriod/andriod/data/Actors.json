@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"里德","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":1,"equips":[1,0,0,9,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"普丽西拉","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,65,5,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"盖尔","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_4","characterIndex":3,"characterName":"Actor1","classId":5,"equips":[31,0,0,5,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"米歇尔","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":2,"equips":[7,0,0,20,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"艾伯特","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0,65,21,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"凯西","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"埃利奥特","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"罗萨","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"姐姐战斗","characterIndex":0,"characterName":"姐姐平时行走","classId":1,"equips":[0,0,0,2,0],"faceIndex":0,"faceName":"姐姐平时","traits":[],"initialLevel":1,"maxLevel":99,"name":"姐姐","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"宝宝战斗","characterIndex":0,"characterName":"宝宝行走","classId":2,"equips":[8,0,0,0,0],"faceIndex":0,"faceName":"宝宝平时","traits":[],"initialLevel":1,"maxLevel":99,"name":"宝宝","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"姐姐盔甲战斗","characterIndex":0,"characterName":"姐姐盔甲行走","classId":1,"equips":[1,27,48,6,0],"faceIndex":0,"faceName":"姐姐盔甲","traits":[{"code":43,"dataId":173,"value":1}],"initialLevel":10,"maxLevel":99,"name":"姐姐","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"蜘蛛行走","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"蜘蛛","traits":[],"initialLevel":50,"maxLevel":99,"name":"小蜘蛛","nickname":"","note":"","profile":"被口红剑击败的大蜘蛛转化为的随从"}
+]
